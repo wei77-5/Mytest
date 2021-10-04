@@ -1,0 +1,3 @@
+git remote add origin http://关联起来
+git push -u origin master   //把本地仓库推送到远程，实际就是把当前分支master推送到远程
+git push origin master
